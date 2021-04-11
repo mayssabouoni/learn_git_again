@@ -1,1 +1,2 @@
-
+git add fourth.txt
+git commit -m "adding fourth.txt
