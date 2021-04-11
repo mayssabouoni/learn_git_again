@@ -4,4 +4,4 @@ git log
 rm third.txt
 git add third.txt
 git commit -m "removing third.txt
- git log
+git log
