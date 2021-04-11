@@ -1,2 +1,3 @@
 git add third.txt
 git commit -m "adding third.txt
+git log
